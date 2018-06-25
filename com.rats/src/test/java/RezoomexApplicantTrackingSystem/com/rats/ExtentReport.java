@@ -57,10 +57,16 @@ public class ExtentReport {
 	@BeforeMethod
 	  public void beforeclass() throws InterruptedException 
 	  {
-		   System.setProperty("webdriver.chrome.driver","/home/synerzip/Selenium/Jar/chromedriver");
-		   driver=new ChromeDriver();
+		   //System.setProperty("webdriver.chrome.driver","/home/synerzip/Selenium/Jar/chromedriver");
+		   //driver=new ChromeDriver();
 		   ChromeOptions options = new ChromeOptions(); 
-		   options.addArguments("disable-infobars"); 
+		   //options.addArguments("disable-infobars"); 
+		   options.addArguments("Window-Size=1400,800");
+		   options.addArguments("headless"); 
+		   System.setProperty("webdriver.chrome.driver","/usr/local/bin/chromedriver");
+		   driver=new ChromeDriver(options);
+		   
+		   
 		   driver.manage().window().maximize();
 		   driver.get("https://orphanqa.rezoomex.in");
 		   driver.manage().window().maximize();
