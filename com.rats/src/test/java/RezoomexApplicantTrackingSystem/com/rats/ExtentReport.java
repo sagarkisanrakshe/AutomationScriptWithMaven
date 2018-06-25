@@ -153,7 +153,7 @@ public class ExtentReport {
 		   WebElement element=driver.findElement(By.id("selectJob"));
 		   Select job=new Select(element);
 		   System.out.println("Jobs are : "+job);
-		   job.selectByVisibleText("Senior Dot Net Developer");
+		   job.selectByVisibleText("Senior Python Developer");
 		   Thread.sleep(9000);
 		   Select technology=new Select(driver.findElement(By.id("selectTechnology")));
 		   technology.selectByVisibleText(".Net");
