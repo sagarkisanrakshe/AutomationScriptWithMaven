@@ -78,7 +78,7 @@ public class ExtentReport {
   
 		  
 		   String actual_title=driver.getTitle();
-		   String expected_title="Rezoomex Applicant Tracking System";
+		   String expected_title="Rezoomex Quick Assessment & Ranking System";
 		   System.out.println(actual_title);
 		   System.out.println(expected_title);
 		   AssertJUnit.assertEquals(actual_title, expected_title);
