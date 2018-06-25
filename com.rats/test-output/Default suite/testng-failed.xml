@@ -5,13 +5,15 @@
     <classes>
       <class name="RezoomexApplicantTrackingSystem.com.rats.ExtentReport">
         <methods>
+          <include name="ProcessJob"/>
           <include name="downloadtracker"/>
+          <include name="manualjob"/>
+          <include name="openjobannotatedtab"/>
           <include name="startTest"/>
           <include name="refreshjob"/>
           <include name="openjobtobeannotatedtab"/>
           <include name="beforeclass"/>
           <include name="deletejob"/>
-          <include name="loginTest"/>
           <include name="setTestResult"/>
           <include name="logoutTest"/>
           <include name="trackjob"/>
