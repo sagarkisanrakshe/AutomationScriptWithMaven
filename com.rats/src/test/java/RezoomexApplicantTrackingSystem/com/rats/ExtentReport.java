@@ -177,7 +177,7 @@ public class ExtentReport {
 		  Select technology=new Select(driver.findElement(By.id("selectTechnology")));
 		  technology.selectByVisibleText("Angularjs");
 		  Thread.sleep(9000);
-		  driver.findElement(By.id("createjobid")).sendKeys("UIDevBU1");
+		  driver.findElement(By.id("createjobid")).sendKeys("UIDevBU2");
 		  Thread.sleep(3000);
 		  driver.findElement(By.id("jdtextarea")).sendKeys("Total Experience- 3-8 Years Must have- Object Oriented Javascript, HTML, CSS.Should have- Exposure to at least one of the JS framework/ library Backbone/ Angular/ React.Good to have- NodeJs.");
 		  Thread.sleep(3000);
