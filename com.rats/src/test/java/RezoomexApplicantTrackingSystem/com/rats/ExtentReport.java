@@ -63,7 +63,7 @@ public class ExtentReport {
 		   //options.addArguments("disable-infobars"); 
 		   options.addArguments("Window-Size=1400,800");
 		   options.addArguments("headless"); 
-		   System.setProperty("webdriver.chrome.driver","/usr/local/bin/chromedriver");
+		   System.setProperty("webdriver.chrome.driver","/home/synerzip/Selenium/Jar/chromedriver");
 		   driver=new ChromeDriver(options);
 		   
 		   
@@ -87,7 +87,7 @@ public class ExtentReport {
 		   String expected_title="Rezoomex Quick Assessment & Ranking System";
 		   System.out.println(actual_title);
 		   System.out.println(expected_title);
-		   AssertJUnit.assertEquals(actual_title, expected_title);
+		   Assert.assertEquals(actual_title, expected_title);
 		   //System.out.println("TestCaseForPageTitlePass");
 	  }
 /*
@@ -177,7 +177,7 @@ public class ExtentReport {
 		  Select technology=new Select(driver.findElement(By.id("selectTechnology")));
 		  technology.selectByVisibleText("Angularjs");
 		  Thread.sleep(9000);
-		  driver.findElement(By.id("createjobid")).sendKeys("UIDevBU9");
+		  driver.findElement(By.id("createjobid")).sendKeys("UIDevBU1");
 		  Thread.sleep(3000);
 		  driver.findElement(By.id("jdtextarea")).sendKeys("Total Experience- 3-8 Years Must have- Object Oriented Javascript, HTML, CSS.Should have- Exposure to at least one of the JS framework/ library Backbone/ Angular/ React.Good to have- NodeJs.");
 		  Thread.sleep(3000);
