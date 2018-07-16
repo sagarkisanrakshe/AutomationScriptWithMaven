@@ -2,24 +2,24 @@
 <testng-results skipped="0" failed="0" total="11" passed="11">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="323008" started-at="2018-06-26T07:15:28Z" finished-at="2018-06-26T07:20:51Z">
+  <suite name="Default suite" duration-ms="305612" started-at="2018-07-16T12:26:35Z" finished-at="2018-07-16T12:31:41Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="323008" started-at="2018-06-26T07:15:28Z" finished-at="2018-06-26T07:20:51Z">
+    <test name="Default test" duration-ms="305612" started-at="2018-07-16T12:26:35Z" finished-at="2018-07-16T12:31:41Z">
       <class name="RezoomexApplicantTrackingSystem.com.rats.ExtentReport">
-        <test-method status="PASS" signature="startTest()[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="startTest" is-config="true" duration-ms="204" started-at="2018-06-26T12:45:28Z" finished-at="2018-06-26T12:45:28Z">
+        <test-method status="PASS" signature="startTest()[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="startTest" is-config="true" duration-ms="186" started-at="2018-07-16T17:56:35Z" finished-at="2018-07-16T17:56:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startTest -->
-        <test-method status="PASS" signature="beforeclass()[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="beforeclass" is-config="true" duration-ms="11046" started-at="2018-06-26T12:45:28Z" finished-at="2018-06-26T12:45:39Z">
+        <test-method status="PASS" signature="beforeclass()[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="beforeclass" is-config="true" duration-ms="10099" started-at="2018-07-16T17:56:35Z" finished-at="2018-07-16T17:56:45Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeclass -->
-        <test-method status="PASS" signature="pageTitleTest()[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="pageTitleTest" duration-ms="26" started-at="2018-06-26T12:45:39Z" finished-at="2018-06-26T12:45:39Z">
+        <test-method status="PASS" signature="pageTitleTest()[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="pageTitleTest" duration-ms="21" started-at="2018-07-16T17:56:45Z" finished-at="2018-07-16T17:56:45Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- pageTitleTest -->
-        <test-method status="PASS" signature="setTestResult(org.testng.ITestResult)[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="setTestResult" is-config="true" duration-ms="1125" started-at="2018-06-26T12:45:39Z" finished-at="2018-06-26T12:45:40Z">
+        <test-method status="PASS" signature="setTestResult(org.testng.ITestResult)[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="setTestResult" is-config="true" duration-ms="1490" started-at="2018-07-16T17:56:45Z" finished-at="2018-07-16T17:56:47Z">
           <params>
             <param index="0">
               <value>
@@ -30,15 +30,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setTestResult -->
-        <test-method status="PASS" signature="beforeclass()[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="beforeclass" is-config="true" duration-ms="9829" started-at="2018-06-26T12:45:40Z" finished-at="2018-06-26T12:45:50Z">
+        <test-method status="PASS" signature="beforeclass()[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="beforeclass" is-config="true" duration-ms="8788" started-at="2018-07-16T17:56:47Z" finished-at="2018-07-16T17:56:56Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeclass -->
-        <test-method status="PASS" signature="automatedjob()[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="automatedjob" duration-ms="17296" started-at="2018-06-26T12:45:50Z" finished-at="2018-06-26T12:46:07Z">
+        <test-method status="PASS" signature="automatedjob()[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="automatedjob" duration-ms="17390" started-at="2018-07-16T17:56:56Z" finished-at="2018-07-16T17:57:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- automatedjob -->
-        <test-method status="PASS" signature="setTestResult(org.testng.ITestResult)[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="setTestResult" is-config="true" duration-ms="1016" started-at="2018-06-26T12:46:07Z" finished-at="2018-06-26T12:46:08Z">
+        <test-method status="PASS" signature="setTestResult(org.testng.ITestResult)[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="setTestResult" is-config="true" duration-ms="1082" started-at="2018-07-16T17:57:13Z" finished-at="2018-07-16T17:57:14Z">
           <params>
             <param index="0">
               <value>
@@ -49,15 +49,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setTestResult -->
-        <test-method status="PASS" signature="beforeclass()[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="beforeclass" is-config="true" duration-ms="8917" started-at="2018-06-26T12:46:08Z" finished-at="2018-06-26T12:46:17Z">
+        <test-method status="PASS" signature="beforeclass()[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="beforeclass" is-config="true" duration-ms="10056" started-at="2018-07-16T17:57:14Z" finished-at="2018-07-16T17:57:24Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeclass -->
-        <test-method status="PASS" signature="manualjob()[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="manualjob" duration-ms="21151" started-at="2018-06-26T12:46:17Z" finished-at="2018-06-26T12:46:38Z">
+        <test-method status="PASS" signature="manualjob()[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="manualjob" duration-ms="22202" started-at="2018-07-16T17:57:24Z" finished-at="2018-07-16T17:57:46Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- manualjob -->
-        <test-method status="PASS" signature="setTestResult(org.testng.ITestResult)[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="setTestResult" is-config="true" duration-ms="1108" started-at="2018-06-26T12:46:38Z" finished-at="2018-06-26T12:46:40Z">
+        <test-method status="PASS" signature="setTestResult(org.testng.ITestResult)[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="setTestResult" is-config="true" duration-ms="1071" started-at="2018-07-16T17:57:46Z" finished-at="2018-07-16T17:57:47Z">
           <params>
             <param index="0">
               <value>
@@ -68,15 +68,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setTestResult -->
-        <test-method status="PASS" signature="beforeclass()[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="beforeclass" is-config="true" duration-ms="10543" started-at="2018-06-26T12:46:40Z" finished-at="2018-06-26T12:46:50Z">
+        <test-method status="PASS" signature="beforeclass()[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="beforeclass" is-config="true" duration-ms="10339" started-at="2018-07-16T17:57:47Z" finished-at="2018-07-16T17:57:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeclass -->
-        <test-method status="PASS" signature="ProcessJob()[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="ProcessJob" duration-ms="33179" started-at="2018-06-26T12:46:50Z" finished-at="2018-06-26T12:47:23Z">
+        <test-method status="PASS" signature="ProcessJob()[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="ProcessJob" duration-ms="33900" started-at="2018-07-16T17:57:58Z" finished-at="2018-07-16T17:58:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ProcessJob -->
-        <test-method status="PASS" signature="setTestResult(org.testng.ITestResult)[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="setTestResult" is-config="true" duration-ms="823" started-at="2018-06-26T12:47:23Z" finished-at="2018-06-26T12:47:24Z">
+        <test-method status="PASS" signature="setTestResult(org.testng.ITestResult)[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="setTestResult" is-config="true" duration-ms="886" started-at="2018-07-16T17:58:32Z" finished-at="2018-07-16T17:58:32Z">
           <params>
             <param index="0">
               <value>
@@ -87,15 +87,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setTestResult -->
-        <test-method status="PASS" signature="beforeclass()[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="beforeclass" is-config="true" duration-ms="9159" started-at="2018-06-26T12:47:24Z" finished-at="2018-06-26T12:47:33Z">
+        <test-method status="PASS" signature="beforeclass()[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="beforeclass" is-config="true" duration-ms="9695" started-at="2018-07-16T17:58:32Z" finished-at="2018-07-16T17:58:42Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeclass -->
-        <test-method status="PASS" signature="openjobannotatedtab()[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="openjobannotatedtab" duration-ms="21286" started-at="2018-06-26T12:47:33Z" finished-at="2018-06-26T12:47:55Z">
+        <test-method status="PASS" signature="openjobannotatedtab()[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="openjobannotatedtab" duration-ms="21365" started-at="2018-07-16T17:58:42Z" finished-at="2018-07-16T17:59:04Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openjobannotatedtab -->
-        <test-method status="PASS" signature="setTestResult(org.testng.ITestResult)[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="setTestResult" is-config="true" duration-ms="894" started-at="2018-06-26T12:47:55Z" finished-at="2018-06-26T12:47:55Z">
+        <test-method status="PASS" signature="setTestResult(org.testng.ITestResult)[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="setTestResult" is-config="true" duration-ms="925" started-at="2018-07-16T17:59:04Z" finished-at="2018-07-16T17:59:04Z">
           <params>
             <param index="0">
               <value>
@@ -106,15 +106,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setTestResult -->
-        <test-method status="PASS" signature="beforeclass()[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="beforeclass" is-config="true" duration-ms="9848" started-at="2018-06-26T12:47:55Z" finished-at="2018-06-26T12:48:05Z">
+        <test-method status="PASS" signature="beforeclass()[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="beforeclass" is-config="true" duration-ms="9238" started-at="2018-07-16T17:59:04Z" finished-at="2018-07-16T17:59:14Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeclass -->
-        <test-method status="PASS" signature="openjobtobeannotatedtab()[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="openjobtobeannotatedtab" duration-ms="48854" started-at="2018-06-26T12:48:05Z" finished-at="2018-06-26T12:48:54Z">
+        <test-method status="PASS" signature="openjobtobeannotatedtab()[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="openjobtobeannotatedtab" duration-ms="48923" started-at="2018-07-16T17:59:14Z" finished-at="2018-07-16T18:00:03Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- openjobtobeannotatedtab -->
-        <test-method status="PASS" signature="setTestResult(org.testng.ITestResult)[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="setTestResult" is-config="true" duration-ms="613" started-at="2018-06-26T12:48:54Z" finished-at="2018-06-26T12:48:55Z">
+        <test-method status="PASS" signature="setTestResult(org.testng.ITestResult)[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="setTestResult" is-config="true" duration-ms="612" started-at="2018-07-16T18:00:03Z" finished-at="2018-07-16T18:00:03Z">
           <params>
             <param index="0">
               <value>
@@ -125,15 +125,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setTestResult -->
-        <test-method status="PASS" signature="beforeclass()[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="beforeclass" is-config="true" duration-ms="16982" started-at="2018-06-26T12:48:55Z" finished-at="2018-06-26T12:49:12Z">
+        <test-method status="PASS" signature="beforeclass()[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="beforeclass" is-config="true" duration-ms="8431" started-at="2018-07-16T18:00:03Z" finished-at="2018-07-16T18:00:12Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeclass -->
-        <test-method status="PASS" signature="trackjob()[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="trackjob" duration-ms="12147" started-at="2018-06-26T12:49:12Z" finished-at="2018-06-26T12:49:24Z">
+        <test-method status="PASS" signature="trackjob()[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="trackjob" duration-ms="12217" started-at="2018-07-16T18:00:12Z" finished-at="2018-07-16T18:00:24Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- trackjob -->
-        <test-method status="PASS" signature="setTestResult(org.testng.ITestResult)[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="setTestResult" is-config="true" duration-ms="1018" started-at="2018-06-26T12:49:24Z" finished-at="2018-06-26T12:49:25Z">
+        <test-method status="PASS" signature="setTestResult(org.testng.ITestResult)[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="setTestResult" is-config="true" duration-ms="940" started-at="2018-07-16T18:00:24Z" finished-at="2018-07-16T18:00:25Z">
           <params>
             <param index="0">
               <value>
@@ -144,15 +144,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setTestResult -->
-        <test-method status="PASS" signature="beforeclass()[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="beforeclass" is-config="true" duration-ms="17134" started-at="2018-06-26T12:49:25Z" finished-at="2018-06-26T12:49:42Z">
+        <test-method status="PASS" signature="beforeclass()[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="beforeclass" is-config="true" duration-ms="10541" started-at="2018-07-16T18:00:25Z" finished-at="2018-07-16T18:00:35Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeclass -->
-        <test-method status="PASS" signature="downloadtracker()[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="downloadtracker" duration-ms="12143" started-at="2018-06-26T12:49:42Z" finished-at="2018-06-26T12:49:54Z">
+        <test-method status="PASS" signature="downloadtracker()[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="downloadtracker" duration-ms="12219" started-at="2018-07-16T18:00:35Z" finished-at="2018-07-16T18:00:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- downloadtracker -->
-        <test-method status="PASS" signature="setTestResult(org.testng.ITestResult)[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="setTestResult" is-config="true" duration-ms="1222" started-at="2018-06-26T12:49:54Z" finished-at="2018-06-26T12:49:55Z">
+        <test-method status="PASS" signature="setTestResult(org.testng.ITestResult)[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="setTestResult" is-config="true" duration-ms="1087" started-at="2018-07-16T18:00:48Z" finished-at="2018-07-16T18:00:49Z">
           <params>
             <param index="0">
               <value>
@@ -163,15 +163,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setTestResult -->
-        <test-method status="PASS" signature="beforeclass()[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="beforeclass" is-config="true" duration-ms="8414" started-at="2018-06-26T12:49:55Z" finished-at="2018-06-26T12:50:04Z">
+        <test-method status="PASS" signature="beforeclass()[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="beforeclass" is-config="true" duration-ms="8908" started-at="2018-07-16T18:00:49Z" finished-at="2018-07-16T18:00:58Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeclass -->
-        <test-method status="PASS" signature="deletejob()[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="deletejob" duration-ms="14250" started-at="2018-06-26T12:50:04Z" finished-at="2018-06-26T12:50:18Z">
+        <test-method status="PASS" signature="deletejob()[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="deletejob" duration-ms="14352" started-at="2018-07-16T18:00:58Z" finished-at="2018-07-16T18:01:12Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- deletejob -->
-        <test-method status="PASS" signature="setTestResult(org.testng.ITestResult)[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="setTestResult" is-config="true" duration-ms="939" started-at="2018-06-26T12:50:18Z" finished-at="2018-06-26T12:50:19Z">
+        <test-method status="PASS" signature="setTestResult(org.testng.ITestResult)[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="setTestResult" is-config="true" duration-ms="760" started-at="2018-07-16T18:01:12Z" finished-at="2018-07-16T18:01:13Z">
           <params>
             <param index="0">
               <value>
@@ -182,15 +182,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setTestResult -->
-        <test-method status="PASS" signature="beforeclass()[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="beforeclass" is-config="true" duration-ms="12038" started-at="2018-06-26T12:50:19Z" finished-at="2018-06-26T12:50:31Z">
+        <test-method status="PASS" signature="beforeclass()[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="beforeclass" is-config="true" duration-ms="8420" started-at="2018-07-16T18:01:13Z" finished-at="2018-07-16T18:01:21Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeclass -->
-        <test-method status="PASS" signature="refreshjob()[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="refreshjob" duration-ms="5067" started-at="2018-06-26T12:50:31Z" finished-at="2018-06-26T12:50:36Z">
+        <test-method status="PASS" signature="refreshjob()[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="refreshjob" duration-ms="5093" started-at="2018-07-16T18:01:21Z" finished-at="2018-07-16T18:01:26Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- refreshjob -->
-        <test-method status="PASS" signature="setTestResult(org.testng.ITestResult)[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="setTestResult" is-config="true" duration-ms="928" started-at="2018-06-26T12:50:36Z" finished-at="2018-06-26T12:50:37Z">
+        <test-method status="PASS" signature="setTestResult(org.testng.ITestResult)[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="setTestResult" is-config="true" duration-ms="887" started-at="2018-07-16T18:01:26Z" finished-at="2018-07-16T18:01:27Z">
           <params>
             <param index="0">
               <value>
@@ -201,15 +201,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setTestResult -->
-        <test-method status="PASS" signature="beforeclass()[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="beforeclass" is-config="true" duration-ms="9821" started-at="2018-06-26T12:50:37Z" finished-at="2018-06-26T12:50:47Z">
+        <test-method status="PASS" signature="beforeclass()[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="beforeclass" is-config="true" duration-ms="9453" started-at="2018-07-16T18:01:27Z" finished-at="2018-07-16T18:01:37Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeclass -->
-        <test-method status="PASS" signature="logoutTest()[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="logoutTest" duration-ms="3020" started-at="2018-06-26T12:50:47Z" finished-at="2018-06-26T12:50:50Z">
+        <test-method status="PASS" signature="logoutTest()[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="logoutTest" duration-ms="3019" started-at="2018-07-16T18:01:37Z" finished-at="2018-07-16T18:01:40Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- logoutTest -->
-        <test-method status="PASS" signature="setTestResult(org.testng.ITestResult)[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="setTestResult" is-config="true" duration-ms="866" started-at="2018-06-26T12:50:50Z" finished-at="2018-06-26T12:50:51Z">
+        <test-method status="PASS" signature="setTestResult(org.testng.ITestResult)[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="setTestResult" is-config="true" duration-ms="903" started-at="2018-07-16T18:01:40Z" finished-at="2018-07-16T18:01:40Z">
           <params>
             <param index="0">
               <value>
@@ -220,7 +220,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setTestResult -->
-        <test-method status="PASS" signature="endTest()[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="endTest" is-config="true" duration-ms="62" started-at="2018-06-26T12:50:51Z" finished-at="2018-06-26T12:50:51Z">
+        <test-method status="PASS" signature="endTest()[pri:0, instance:RezoomexApplicantTrackingSystem.com.rats.ExtentReport@46d56d67]" name="endTest" is-config="true" duration-ms="83" started-at="2018-07-16T18:01:40Z" finished-at="2018-07-16T18:01:41Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- endTest -->
