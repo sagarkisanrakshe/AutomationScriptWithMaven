@@ -90,7 +90,7 @@ public class ExtentReport {
 		   System.out.println(actual_title);
 		   System.out.println(expected_title);
 		   Assert.assertEquals(actual_title, expected_title);
-		   //System.out.println("TestCaseForPageTitlePass");
+		   System.out.println("TestCaseForPageTitlePass");
 	  }
 /*
 	  @DataProvider
@@ -169,6 +169,7 @@ public class ExtentReport {
 		   
 		   driver.findElement(By.id("createjobbuttonId")).click();
 		   Thread.sleep(3000);
+		   System.out.println("TestCaseForAutomatedJobCreationPass");
 		  
 	 }
 	
@@ -180,14 +181,12 @@ public class ExtentReport {
 		  technology.selectByVisibleText("Angularjs");
 		  Thread.sleep(9000);
 		  driver.findElement(By.id("createjobid")).sendKeys("UIDeveloper"+(System.nanoTime()));
-		  
-		  
-	
 		  Thread.sleep(3000);
 		  driver.findElement(By.id("jdtextarea")).sendKeys("Total Experience- 3-8 Years Must have- Object Oriented Javascript, HTML, CSS.Should have- Exposure to at least one of the JS framework/ library Backbone/ Angular/ React.Good to have- NodeJs.");
 		  Thread.sleep(3000);
 		  driver.findElement(By.id("createjobbuttonId")).click();;
 		  Thread.sleep(5000);
+		  System.out.println("TestCaseForManualJobCreationPass");
 		  
 		  
 	  }
@@ -224,7 +223,7 @@ public class ExtentReport {
 			Thread.sleep(1000);
 			lastrowlastColsButtons.get(0).click();
 			Thread.sleep(9000);
-			System.out.println("Job Process Successfully");
+			System.out.println("TestCaseForJobProcessingPass");
 		
 	  }
 	  
@@ -254,7 +253,7 @@ public class ExtentReport {
 			//Annotated and missing info Tab
 			driver.findElement(By.id("backtocorpusbuttonid")).click();
 		    Thread.sleep(9000);
-			
+			System.out.println("TestCaseForOpenJobAnnotatedTabPass");
 			//To Be Annotated Tab
 			
 			/*Thread.sleep(1000);
@@ -310,7 +309,7 @@ public class ExtentReport {
 			driver.findElement(By.id("saveButtonId")).click();
 			Thread.sleep(2000);
 			driver.findElement(By.id("backtocorpusbuttonid")).click();
-			
+			System.out.println("TestCaseForOpenJobToBeAnnotatedTabPass");
 	  }
 	  @Test (priority=8)
 	  public void trackjob() throws InterruptedException
@@ -333,6 +332,7 @@ public class ExtentReport {
 			Thread.sleep(1000);
 			lastrowlastColsButtons.get(3).click();
 			Thread.sleep(9000);
+			System.out.println("TestCaseForTrackJobPass");
 			
 	  }
 	  @Test(priority=9)
@@ -356,6 +356,7 @@ public class ExtentReport {
 			Thread.sleep(1000);
 			lastrowlastColsButtons.get(4).click();
 			Thread.sleep(9000);
+			System.out.println("TestCaseForDownloadTrackerPass");
 		  
 	  }
 	  
@@ -394,7 +395,7 @@ public class ExtentReport {
 			alt.accept();
 			*/
 			Thread.sleep(9000);  
-			
+			System.out.println("TestCaseForDeleteJobPass");
 	  }
 	  
 	  @Test(priority=11)
@@ -404,6 +405,7 @@ public class ExtentReport {
 		  Thread.sleep(2000);
 	      driver.findElement(By.id("refreshbutton")).click();
 	      Thread.sleep(3000);
+	      System.out.println("TestCaseForRefreshJobsPass");
 	  }
 	 
 	  @Test(priority=12)
@@ -412,6 +414,7 @@ public class ExtentReport {
 		  driver.findElement(By.id("logoutbutton"));
 	     
 	      Thread.sleep(3000);
+	      System.out.println("TestCaseForLogoutPass");
 	      }
 		  
 	
