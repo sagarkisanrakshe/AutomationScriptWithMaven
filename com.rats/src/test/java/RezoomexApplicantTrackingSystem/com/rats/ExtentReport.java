@@ -164,7 +164,7 @@ public class ExtentReport {
 		   job.selectByVisibleText("Senior Python Developer");
 		   Thread.sleep(9000);
 		   Select technology=new Select(driver.findElement(By.id("selectTechnology")));
-		   technology.selectByVisibleText(".Net");
+		   technology.selectByVisibleText("Python");
 		   Thread.sleep(3000);
 		   
 		   driver.findElement(By.id("createjobbuttonId")).click();
