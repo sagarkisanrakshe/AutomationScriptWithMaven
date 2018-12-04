@@ -3,22 +3,12 @@
 <suite name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="RezoomexApplicantTrackingSystem.com.rats.ExtentReport">
+      <class name="RezoomexApplicantTrackingSystem.com.rats.Resumeupload">
         <methods>
-          <include name="ProcessJob"/>
-          <include name="downloadtracker"/>
-          <include name="manualjob"/>
-          <include name="openjobannotatedtab"/>
-          <include name="startTest"/>
-          <include name="refreshjob"/>
-          <include name="openjobtobeannotatedtab"/>
           <include name="beforeclass"/>
-          <include name="deletejob"/>
-          <include name="setTestResult"/>
-          <include name="logoutTest"/>
-          <include name="trackjob"/>
+          <include name="resumeupload"/>
         </methods>
-      </class> <!-- RezoomexApplicantTrackingSystem.com.rats.ExtentReport -->
+      </class> <!-- RezoomexApplicantTrackingSystem.com.rats.Resumeupload -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
